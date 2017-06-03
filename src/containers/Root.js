@@ -13,7 +13,10 @@ const Root = () => (
           one {message}
           other {messages}
         }`}
-        values={{name: <b>{name}</b>, unreadCount}}
+        values={{
+          name: <code>{name}</code>,
+          unreadCount
+        }}
     />
   </div>
 )
