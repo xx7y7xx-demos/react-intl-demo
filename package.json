@@ -18,8 +18,10 @@
   },
   "homepage": "https://github.com/xxd3vin/react-hot-loader-minimal-boilerplate#readme",
   "dependencies": {
+    "prop-types": "^15.5.10",
     "react": "^15.4.2",
-    "react-dom": "^15.4.2"
+    "react-dom": "^15.4.2",
+    "react-intl": "^2.3.0"
   },
   "devDependencies": {
     "babel-core": "^6.23.1",
